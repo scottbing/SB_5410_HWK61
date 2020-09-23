@@ -72,6 +72,14 @@ def main():
     Y = nd_pixels
     print("Length of LCS between Homer2 and Ned is ", lcs(X, Y))
 
+    print(("\nThe high number that results from the comparison of the two"))
+    print(("Homer images is indicative of the fact that they have a high"))
+    print(("degree of similarity between them.\n"))
+
+    print(("The very low numbers that resulted from the comparison of the "))
+    print(("each of the Homer images to the Ned Flanders image is indicative of the"))
+    print(("the fact that there is very little similarity between each of these images."))
+
 #end def main():
 
 if __name__ == '__main__':
